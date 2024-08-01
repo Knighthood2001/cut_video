@@ -1,0 +1,5 @@
+# 虚拟环境
+venv/
+
+# 忽略所有的 .idea 目录（IntelliJ IDEA 的配置）
+.idea/
